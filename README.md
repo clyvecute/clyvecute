@@ -48,7 +48,7 @@
     You can get it by connecting your account at https://spotify-github-profile.kittinanx.com
   -->
   <a href="https://github.com/clyvecute/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&theme=spotify-embed" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zzkaufye4g3uyxlbyyf6d2pj4m&theme=spotify-embed" alt="Spotify Now Playing" />
   </a>
 </div>
 
