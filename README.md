@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <h3>✨ Full-Stack Developer & Automation Enthusiast ✨</h3>
+  <h3>✨ coder a day!! hehehhhehehhehehehhehhehe ✨</h3>
   <p>Building aesthetic, high-performance applications with a focus on seamless user experiences.</p>
 </div>
 
